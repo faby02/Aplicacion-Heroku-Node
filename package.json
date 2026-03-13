@@ -1,0 +1,16 @@
+{
+  "name": "tendencias-en-entornos-de-desarrollo-de-aplicaciones-y-servicios",
+  "version": "1.0.0",
+  "description": "Aplicacion simple Node.js para deployment en Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Maria Fabiola Elizondo Lepe",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
